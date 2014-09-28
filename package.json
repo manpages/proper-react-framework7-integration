@@ -1,7 +1,8 @@
  {
     "name":            "proper-react-framework7-integration"
    ,"version":         "0.1.0"
-   ,"descripion":      "React.js + Framework7 = ♥"
+   ,"description":     "React.js + Framework7 = ♥"
+   ,"repository":      "https://github.com/manpages/proper-react-framework7-integration"
    ,"main":            "index.js"
    ,"author":          "Jonn Mostovoy"
    ,"license":         "MIT"
